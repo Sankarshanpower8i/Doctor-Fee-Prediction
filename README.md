@@ -3,7 +3,7 @@
 
 This project aims to create a web interface that allows users to predict doctor consultation fees based on their input. The machine learning model was trained on a dataset obtained by scraping data from the Practo website using Selenium. With the use of Python Pandas, the scraped data was thoroughly cleaned & preprocessed for accurate predictions.
 
-![Doctor Fee Prediction](https://github.com/puneetpahadia-da/Doctor_Fee_Prediction_with_Web_Application/assets/97096168/5e7f7967-5c38-48c2-9d73-4bea1d608131)
+![Doctor Fee Prediction](https://blog.practo.com/wp-content/uploads/2017/04/Blog-Hero-Visual.png)
 
 ## Project Details 🚧
 
